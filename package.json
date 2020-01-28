@@ -21,7 +21,6 @@
     "content"
   ],
   "peerDependencies":{
-    "nightmare": "^2.3.0"
   },
   "dependencies": {
     "debug": "^2.2.0"
